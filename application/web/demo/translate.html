@@ -1,0 +1,71 @@
+<! DOCTYPE html>
+<html>
+    <body>
+	<center>
+	<h1 style="margin-top:8%">Automatic Dog Voice Recognition Service<br> APIs Demo(v0) </h1>
+	<h2>Translate Dog Voice to Human language</h2>
+
+    	<form action="../cgi-bin/translate" method="post" enctype="multipart/form-data">
+	<table>
+		<tr>
+			<td>Upload A media file (.wav or .mp4)</td>
+			<td>
+			    <input type="file" name="mediaFile" id="mediaFile">
+			</td>
+		</tr>
+		<tr>
+			<td>Dog Id:</td>
+			<td>
+			    <input type="input" name="dogId" id="dogId">
+			</td>
+		</tr>
+		<tr>
+			<td>User Id:</td>
+			<td>
+			    <input type="input" name="userId" id="userId">
+			</td>
+		</tr>
+		<tr>
+			<td>Phone Id:</td>
+			<td>
+			    <input type="input" name="phoneId" id="phoneId">
+			</td>
+		</tr>
+		<tr>
+			<td>Emotion Hint:</td>
+			<td>
+			    <input type="input" name="emotionHint" id="emotionHint">
+			</td>
+		</tr>
+		<tr>
+			<td>Record Time:</td>
+			<td>
+			    <input type="input" name="recordTime" id="recordTime">
+			</td>
+		</tr>
+		<tr>
+			<td>Target Language:</td>
+			<td>
+			    <select name="targetLocale" id="recordTime">
+				<option value="en_US">English</option>
+				<option value="zh_CN">Chinese</option>
+			    </select>
+			</td>
+		</tr>
+		<tr> 
+			<td>
+	    			<input type="submit" value="Submit" name="submit">
+			</td>
+			<td>
+	    			<input type="reset" value="Reset" name="reset">
+			</td>
+		</tr>
+
+		</tr>
+
+	</table>
+    	</form>
+
+	</center>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+{
+	"I am an barking dog": {
+			"en_US":"I am an barking dog",
+			"zh_CN":"\u6211\u662f\u4e00\u53ea\u4f1a\u53eb\u7684\u72d7"
+		},
+	"happy": {
+			"en_US":"I am a happy doggy",
+			"zh_CN":"I am a happy doggy (Chinese)"
+		},
+
+	"angry": {
+			"en_US":"I am angry. Want to bite someone",
+			"zh_CN":"I am angry. Want to bite someone.(Chinese)"
+		},
+
+	"hungry": {
+			"en_US":"I am hungry. Any treat?",
+			"zh_CN":"I am hungry. Any treat? (Chinese)"
+		},
+
+	"bored": {
+			"en_US":"I am bored. Play with me?",
+			"zh_CN":"I am bored. Play with me? (Chinese)"
+		},
+
+	"annoyed": {
+			"en_US":"I am annoyed. Leave me alone.",
+			"zh_CN":"I am annoyed. Leave me alone. (Chinese)"
+		},
+
+	"I am an angry dog": 
+		{
+			"en_US":"I am an angry dog",
+			"zh_CN":"\u6211\u662f\u4e00\u53ea\u6124\u6012\u7684\u72d7"
+		}
+}

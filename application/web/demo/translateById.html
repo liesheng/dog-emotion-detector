@@ -1,0 +1,41 @@
+<! DOCTYPE html>
+<html>
+    <body>
+	<center>
+	<h1 style="margin-top:10%">Automatic Dog Voice Recognition Service APIs (v0) Demo </h1>
+	<h2>Translate Preloaded Dog Voice to Human language</h2>
+
+    	<form action="../cgi-bin/translate" method="get">
+	<table>
+		<tr>
+			<td>Enter the ID<br> of a previously uploaded media file</td>
+			<td>
+			    <input type="input" name="mediaFileId" id="audioFileId">
+			</td>
+		</tr>
+		<tr>
+			<td>Target Language:</td>
+			<td>
+			    <select name="targetLocale" id="recordTime">
+				<option value="en_US">English</option>
+				<option value="zh_CN">Chinese</option>
+			    </select>
+			</td>
+		</tr>
+		<tr> 
+			<td>
+	    			<input type="submit" value="Submit" name="submit">
+			</td>
+			<td>
+	    			<input type="reset" value="Reset" name="reset">
+			</td>
+		</tr>
+
+		</tr>
+
+	</table>
+    	</form>
+
+	</center>
+    </body>
+</html>

@@ -1,0 +1,61 @@
+/usr/lib64/python3.4/site-packages/scipy/io/wavfile.py:267: WavFileWarning: Chunk (non-data) not understood, skipping it.
+  WavFileWarning)
+generating codebook for size 128  ...
+/workspace/dogemotiondetector/demo/v0/data/samples/Devil Dog Crazy.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/puppy_yipping.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/Dog Growl Then Bark.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/Large Angry Dog 2.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/Taking A Bite.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/agitated-german-shephard.wav
+Unsupported bit depth: the wav file has 24-bit data.
+/workspace/dogemotiondetector/demo/v0/data/samples/Angry-dog.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark9.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/Old-dog-barking-sound.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/sad-puppy-barking.wav
+Unsupported bit depth: the wav file has 24-bit data.
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_growl3.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark7.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_bark4.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_bark_once.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_bark2.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_bark3.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark2.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-littlebark2.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/pissed-medium-dog.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark3.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_whine.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_bark5.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark6.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/Dog-whining.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_x.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/Dogs-barking-sounds.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/Large Angry Evil Dog.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_whine2.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-growl1.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-howling-yapping.wav
+Unsupported bit depth: the wav file has 24-bit data.
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_bark6.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-littlebark1.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark8.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark5.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/dog_bark_2.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark1.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/Dogs-barking-close-up.wav
+/workspace/dogemotiondetector/demo/v0/data/samples/dog-bark4.wav
+Unknown wave file format
+/workspace/dogemotiondetector/demo/v0/data/samples/Dry Cough.wav
+  File "./generate_codebooks.py", line 41
+    if _data_size > MAX_DATA_SIZE
+                                ^
+SyntaxError: invalid syntax
